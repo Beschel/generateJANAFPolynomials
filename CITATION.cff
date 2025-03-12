@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: Generate JANAF Polynoms with CoolProp for OpenFOAM
+message: 'If you use this software, please cite it as below'
+url: "https://github.com/ITV-Stuttgart/genJANAFPolynomials"
+authors:
+  - given-names: Jan Wilhelm
+    family-names: Gärtner
+    email: jan-wilhelm.gaertner@irst.uni-stuttgart.de
+    affiliation: 'University of Stuttgart'
+    orcid: "https://orcid.org/0000-0002-1718-7735"
+preferred-citation:
+    type: software
+    authors:
+      - given-names: Jan Wilhelm
+        family-names: Gärtner
+        email: jan-wilhelm.gaertner@irst.uni-stuttgart.de
+        affiliation: 'University of Stuttgart'
+        orcid: "https://orcid.org/0000-0002-1718-7735"
+    year: 2025
+    title: "Generate JANAF Polynoms with CoolProp for OpenFOAM"
+    version: 1.0
+    date-released: 2025-03-12
+
