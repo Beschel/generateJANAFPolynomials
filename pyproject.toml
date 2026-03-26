@@ -1,0 +1,10 @@
+[project]
+name = "generateJANAFPolynomials"
+version = "1.0.0"
+description = "Generate JANAF polynomials for cryogenic conditions"
+authors = [{name = "Jan Wilhelm Gärtner"}]
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

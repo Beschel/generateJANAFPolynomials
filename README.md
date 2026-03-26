@@ -47,7 +47,3 @@ Required python libraries are:
 [1] R.J. Kee, F.M. Rupley, and J.A. Miller, "Chemkin-II: A Fortran Chemical
 Kinetics Package for the Analysis of Gas-Phase Chemical Kinetics",
 Sandia Report SAND89-8009.UC-401, September 1989
-
-## License
-
-
